@@ -1,0 +1,56 @@
+.header {
+    color: #FFF;
+    background-color: #000;
+    display: inline-block;
+    width: 1528px;
+    height: 88px;
+}
+
+.header-title {
+    width: 127px;
+    height: 51px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Istok Web;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-align: center;
+    margin-right:1000px;
+}
+
+.fa-regular {
+    width: 26px;
+    height: 25px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    text-align: center;
+}
+
+.fa-square-plus {
+    width: 24px;
+    height: 22px;
+    flex-shrink: 0;
+    text-align: center;
+
+}
+
+.fa-user {
+    width: 21px;
+    height: 24px;
+    flex-shrink: 0;
+    text-align: center;
+}
+
+.menu-items {
+    color: #FFF;
+    font-family: Istok Web;
+    font-size: 17.978px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-align: center;
+}
+
+p {
+    display: inline-block;
+}
